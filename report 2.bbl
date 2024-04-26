@@ -1,0 +1,32 @@
+\begin{thebibliography}{1}
+
+\bibitem{article}
+Henk~(Hendrik) Barendregt.
+\newblock The impact of the lambda calculus in logic and computer science.
+\newblock {\em Bulletin of Symbolic Logic}, 3, 09 1999.
+
+\bibitem{python1}
+Kamila Ostrowska.
+\newblock A brief history of python.
+\newblock \url{https://learnpython.com/blog/history-of-python/}, June 2022.
+
+\bibitem{rojas2015tutorial}
+Ra{\'u}l Rojas.
+\newblock A tutorial introduction to the lambda calculus.
+\newblock {\em arXiv preprint arXiv:1503.09060}, 2015.
+
+\bibitem{python96}
+Guido~Van Rossum.
+\newblock Foreword for "programming python" (1st ed.).
+
+\bibitem{zen}
+Guido~Van Rossum.
+\newblock The zen of python.
+\newblock https://peps.python.org/pep-0020/, August 2004.
+
+\bibitem{texbook}
+Abraham Silberschatz, Peter~Baer Galvin, and Greg Gagne.
+\newblock {\em Operating System Concepts}.
+\newblock Wiley, 2018.
+
+\end{thebibliography}
